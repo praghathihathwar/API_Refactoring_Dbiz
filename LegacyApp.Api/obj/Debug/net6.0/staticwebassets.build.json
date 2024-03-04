@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+a/CrOh5IQ+xmU/cRCOgx4/ReNKg0i35fzwMyEI4CmY=",
+  "Source": "LegacyApp.Api",
+  "BasePath": "_content/LegacyApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

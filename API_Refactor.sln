@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LegacyApp.Api", "..\Api_Refactoring\LegacyApp.Api\LegacyApp.Api.csproj", "{09C07CE2-49E8-4392-B5F7-E99BAF3BD578}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LegacyApp.Api", "..\API_Refactoring_Dbiz\LegacyApp.Api\LegacyApp.Api.csproj", "{09C07CE2-49E8-4392-B5F7-E99BAF3BD578}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LegacyApp", "..\Api_Refactoring\LegacyApp\LegacyApp.csproj", "{FD1A8B2C-0E47-4E99-B7F5-E26B894B9CCA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LegacyApp", "..\API_Refactoring_Dbiz\LegacyApp\LegacyApp.csproj", "{FD1A8B2C-0E47-4E99-B7F5-E26B894B9CCA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1D6CF6D6-95A1-48F1-829A-9444363FDB8B}"
 EndProject
